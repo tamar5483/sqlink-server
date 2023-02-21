@@ -1,0 +1,12 @@
+Y:\Groups\1\ולדמן תמר\sqlink\MyProject.API\MyProject.Services\bin\Debug\net6.0\MyProject.Services.deps.json
+Y:\Groups\1\ולדמן תמר\sqlink\MyProject.API\MyProject.Services\bin\Debug\net6.0\MyProject.Services.dll
+Y:\Groups\1\ולדמן תמר\sqlink\MyProject.API\MyProject.Services\bin\Debug\net6.0\MyProject.Services.pdb
+Y:\Groups\1\ולדמן תמר\sqlink\MyProject.API\MyProject.Services\obj\Debug\net6.0\MyProject.Services.csproj.AssemblyReference.cache
+Y:\Groups\1\ולדמן תמר\sqlink\MyProject.API\MyProject.Services\obj\Debug\net6.0\MyProject.Services.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\1\ולדמן תמר\sqlink\MyProject.API\MyProject.Services\obj\Debug\net6.0\MyProject.Services.AssemblyInfoInputs.cache
+Y:\Groups\1\ולדמן תמר\sqlink\MyProject.API\MyProject.Services\obj\Debug\net6.0\MyProject.Services.AssemblyInfo.cs
+Y:\Groups\1\ולדמן תמר\sqlink\MyProject.API\MyProject.Services\obj\Debug\net6.0\MyProject.Services.csproj.CoreCompileInputs.cache
+Y:\Groups\1\ולדמן תמר\sqlink\MyProject.API\MyProject.Services\obj\Debug\net6.0\MyProject.Services.dll
+Y:\Groups\1\ולדמן תמר\sqlink\MyProject.API\MyProject.Services\obj\Debug\net6.0\refint\MyProject.Services.dll
+Y:\Groups\1\ולדמן תמר\sqlink\MyProject.API\MyProject.Services\obj\Debug\net6.0\MyProject.Services.pdb
+Y:\Groups\1\ולדמן תמר\sqlink\MyProject.API\MyProject.Services\obj\Debug\net6.0\ref\MyProject.Services.dll
